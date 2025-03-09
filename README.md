@@ -161,7 +161,7 @@ Ty Bryant - developer of all content in this README file
 Kaden Bryant - provided GitHub knowledge
 
 ## Sources
-Emojis: [https://emojidb.org/instruction-emojis]
+Emojis: https://emojidb.org/instruction-emojis
 
 
 
