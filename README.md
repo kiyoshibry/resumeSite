@@ -66,7 +66,7 @@ pelican quickstart
 
 You will be asked a series of questions and I have provided an outline on how to answer them in the brackets:
 
-Where do you want to create your new web site? [https://username.github.io/myResume]
+> Where do you want to create your new web site? [https://username.github.io/myResume]
 > What will be the title of this web site? [Resume Static Site]
 > Who will be the author of this web site? [FirstName LastName]
 > What will be the default language of this web site? [en]
