@@ -133,11 +133,11 @@ If you want learn more, check out these links:
 
 **Modern Technical Writing by Andrew Etter**:[https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS]
 
-## FAQ
+## ❓FAQ
 
 ### Q: Why do we use a lightweight markup language like Markdown over languages like HTML and CSS?
 
-**A:** According to Andrew Etter, we use these lightweight markup languages becasuse because of its simplicity, readibility, faster writing process, and it iseasier to collaborate on.
+**A:** According to Andrew Etter, we use these lightweight markup languages becasuse because of its simplicity, readibility, faster writing process, and it iseasier to collaborate on. Markdown is used commonly for documentation due to the fact it is very readable as well as the learning curve is extremely low compared to using languages like HTML and CSS.
 
 ### Q: I made some changes to my resume, why is it not updating to the static site?
 
@@ -152,10 +152,19 @@ If you want learn more, check out these links:
    ```
    pelican content -s publishconf.py
    ```
+   
+If none of these worked, please send an email to kiyoshibryant0@gmail.com with your issue in the subject section. 
 ## Credits
 
 ### Contributors
 Ty Bryant - developer of all content in this README file
+Kaden Bryant - provided GitHub knowledge
+
+## Sources
+Emojis: [https://emojidb.org/instruction-emojis]
+
+
+
 
 
 
