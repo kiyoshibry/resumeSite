@@ -123,15 +123,15 @@ ghp-import output -b gh-pages
 git push origin gh-pages
 ```
 
-You can now access your static site viewing: [https://username.github.io/myResume]
+You can now access your static site viewing: https://username.github.io/myResume
 
 ## Further Resources/Readings
 If you want learn more, check out these links:
-**GitHub Pages Guide**: [https://www.docs.github.com/en/pages]
+**GitHub Pages Guide**: https://www.docs.github.com/en/pages
 
 **Pelican Documentation**:;https://docs.getpelican.com
 
-**Modern Technical Writing by Andrew Etter**:[https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS]
+**Modern Technical Writing by Andrew Etter**:https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 
 ## ❓FAQ
 
