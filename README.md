@@ -30,7 +30,7 @@ Before you start creating your static site for your resume, you will need the fo
 
 Having knowledge already using Markdown would be great to have.
 
-##📝Instructions
+## 📝Instructions
 
 ### Step 1: Set up GitHub Repository
 
