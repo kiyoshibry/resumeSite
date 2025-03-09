@@ -5,9 +5,13 @@ The goal of this README is to act as a guide for creating, formatting and hostin
 This guided requires no prior knowledge with the working of Git or static site generators.
 
 The goals we want to achieve are:
+
 ✅Write your own resume using **Markdown**
+
 ✅Generate a static website using **Pelican**
+
 ✅Use Git for version control
+
 ✅ Deploy the website using **GitHub Paghes**
 
 This document also implements the best practices for technical documentation, outlined by _Andrew Etter_
